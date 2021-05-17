@@ -1,1 +1,5 @@
-# bookmarkletMaker
+# bookmarkletMaker  
+JavaScriptコードをブックマークレット形式に変換します。  
+・コメントや空の行は削除されます。  
+・コードに正規表現を用いている場合は上手く変換出来ない場合があります。
+
